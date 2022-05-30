@@ -1,6 +1,6 @@
 - Hi, I’m Elemental.
 - I’m interested in making games, machines, and plenty of other stuff.
-- I’m currently learning HTML, with some CSS.
+- I’m currently learning C# and Unity.
 - I’m looking to collaborate on nothing right now.
 - How to reach me: on Discord: OriginalName#4216
 
